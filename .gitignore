@@ -1,0 +1,6 @@
+
+*.iml
+*.xml
+*.pth
+CursoemVideo/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/EGG-INFO/dependency_links.txt
+PythonExercicios/__init__.py
